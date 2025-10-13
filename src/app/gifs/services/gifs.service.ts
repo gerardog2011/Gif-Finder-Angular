@@ -7,7 +7,7 @@ import type { GiphyResponse } from '../interfaces/giphy.interface';
 import type { Gif } from '../interfaces/gif.interface';
 import { GifMapper } from '../mapper/gif.mapper';
 
-const GIF_KEY = 'gifs';
+const GIF_KEY = 'gifs'; //'gifs' para empezar a guardar en localStorage
 
 const loadFromLocalStorage = () => {
     const gifsFromLocalStorage = localStorage.getItem(GIF_KEY) ?? '{}';
