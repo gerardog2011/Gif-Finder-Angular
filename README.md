@@ -16,7 +16,7 @@ Una aplicación moderna y responsive para buscar y explorar gifs, desarrollada c
 
 ## 🖼️ Capturas de Pantalla
 
-| Vista Principal | Búsqueda de Gifs |
+| Vista Principal |
 |-----------------|------------------|
 | ![Vista Principal]<img width="1059" height="583" alt="image" src="https://github.com/user-attachments/assets/335174b7-c819-4ab6-958b-be0494f71825" />
  | ![Búsqueda]<img width="1070" height="576" alt="image" src="https://github.com/user-attachments/assets/b4ce78a9-134d-4f5e-9d16-4e1b3910b6cd" />
