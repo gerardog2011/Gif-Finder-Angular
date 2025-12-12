@@ -38,3 +38,10 @@ Una aplicación moderna y responsive para buscar y explorar gifs, desarrollada c
 ## 🚀 Demo en vivo:
 [Ver proyecto en Vercel](https://gifsearcherconangular.vercel.app)
 
+## 📄 Licencia
+MIT License - See [LICENSE](LICENSE) for details.
+
+## 📚 Créditos
+- Basado en el tutorial/proyecto de [Klerith/fernando-herrera] (curso de Angular)
+- Gif API proporcionada por [Giphy]
+
