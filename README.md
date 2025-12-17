@@ -41,6 +41,13 @@ Una aplicación moderna y responsive para buscar y explorar gifs, desarrollada c
 ## 📄 Licencia
 MIT License - See [LICENSE.txt](LICENSE.txt) for details.
 
+## 👨‍💻 Autor
+Jafet Gerardo Guardia Soto
+
+GitHub: @gerardog2011
+
+LinkedIn: Gerardo Guardia
+
 ## 📚 Créditos
 - Basado en el tutorial/proyecto de [Klerith/fernando-herrera] (curso de Angular)
 - Gif API proporcionada por [Giphy]
