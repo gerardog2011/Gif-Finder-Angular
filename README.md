@@ -34,6 +34,30 @@ Una aplicación moderna y responsive para buscar y explorar gifs, desarrollada c
 - **API de Gifs**: Giphy API
 
 ## 📦 Estructura del Proyecto
+src/app/
+├── gifs/
+│ ├── components/
+│ │ ├── gif-list/ # Lista de gifs
+│ │ ├── gif-list-item/ # Item individual de gif
+│ │ ├── side-menu/ # Menú lateral de navegación
+│ │ └── side-menu-header/ # Cabecera del menú
+
+│ ├── interfaces/ # Interfaces TypeScript
+│ │ ├── gif.interface.ts
+│ │ └── giphy.interface.ts
+
+│ ├── pages/ # Páginas principales
+│ │ ├── dashboard-page/ # Página principal
+│ │ ├── search-page/ # Página de búsqueda
+│ │ ├── trending-page/ # Gifs populares
+│ │ └── gif-history/ # Historial de búsquedas
+
+│ ├── services/ # Servicios
+│ │ └── gifs.service.ts # Servicio para API de Gifs
+
+│ └── mapper/ # Mapeadores de datos
+
+│ └── gif.mapper.ts # Transformación de datos API
 
 ## 🚀 Demo en vivo:
 [Ver proyecto en Vercel](https://gifsearcherconangular.vercel.app)
