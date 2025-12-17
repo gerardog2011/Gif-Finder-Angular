@@ -48,11 +48,13 @@ app/
 
 │ │ └── side-menu-header/ # Cabecera del menú
 
+
 │ ├── interfaces/ # Interfaces TypeScript
 
 │ │ ├── gif.interface.ts
 
 │ │ └── giphy.interface.ts
+
 
 │ ├── pages/ # Páginas principales
 
@@ -64,11 +66,14 @@ app/
 
 │ │ └── gif-history/ # Historial de búsquedas
 
+
 │ ├── services/ # Servicios
 
 │ │ └── gifs.service.ts # Servicio para API de Gifs
 
+
 │ └── mapper/ # Mapeadores de datos
+
 
 │ └── gif.mapper.ts # Transformación de datos API
 
