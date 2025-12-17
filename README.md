@@ -16,22 +16,9 @@ Una aplicación moderna y responsive para buscar y explorar gifs, desarrollada c
 
 ## 🖼️ Capturas de Pantalla
 
-A continuación se muestran algunas capturas representativas del proyecto, donde se aprecia el diseño general, la estructura de la página y los principales componentes de la interfaz.
-
-### Vista general del proyecto
-
-| Página principal | Sección Menú |
-|------------------|--------------|
-| <img src="https://github.com/user-attachments/assets/de39ce3d-4291-4a89-9aae-ce58e7ea83e0" width="480"/> | <img src="https://github.com/user-attachments/assets/8f6b2667-efc8-4312-b82f-e8f86d0b8a75" width="480"/> |
-
----
-
-### Secciones internas
-
-| Sección Equipo | Sección Testimonios |
-|---------------|---------------------|
-| <img src="https://github.com/user-attachments/assets/8ed013e0-3205-43d1-b6cd-cb2b45bc0049" width="480"/> | <img src="https://github.com/user-attachments/assets/4fb3c96d-eb20-4400-9e0e-5f9437d1e4b4" width="480"/> |
-
+| ![Vista Principal]<img width="1059" height="583" alt="image" src="https://github.com/user-attachments/assets/335174b7-c819-4ab6-958b-be0494f71825" />
+ | ![Búsqueda]<img width="1070" height="576" alt="image" src="https://github.com/user-attachments/assets/b4ce78a9-134d-4f5e-9d16-4e1b3910b6cd" />
+|
 
 ## 🛠️ Tecnologías Utilizadas
 
